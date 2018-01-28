@@ -1,10 +1,15 @@
-#Learn Powershell
+
+
+# Learn Powershell
+
+
+## Module 1 - Intro
 
 Everything in powershell are .NET objects
 
 They are commonly referred as Verbs and Nouns
 
-##Verbs
+## Verbs
 Set
 Write
 Get
@@ -13,7 +18,7 @@ Start
 stop
 
 
-##Nouns
+## Nouns
 Help
 command
 Service
@@ -23,4 +28,7 @@ ChildItem
 
 Those verbs and Nouns placed together as cmdlets
 
-There is a concept called Providers in .NET which is .NET library which acts as a standard Interface 
+There is a concept called Providers in .NET which is .NET library which acts as a standard Interface
+
+
+## Module 2 - Variables in powershell
